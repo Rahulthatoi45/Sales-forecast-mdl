@@ -1,0 +1,1001 @@
+Date,Product,Category,Region,Quantity_Sold,Unit_Price,Discount,Total_Sales
+2024-01-01,Bookshelf,Furniture,Central,22,4533.15,5.0,94742.83
+2024-01-01,Yoga Mat,Sports & Fitness,South,10,745.02,5.0,7077.69
+2024-01-01,Office Chair,Furniture,West,4,7884.39,0.0,31537.56
+2024-01-02,Bed Sheet Set,Home & Living,West,2,1815.07,0.0,3630.14
+2024-01-02,Bed Sheet Set,Home & Living,West,18,1826.45,5.0,31232.29
+2024-01-02,Curtains,Home & Living,East,13,1653.41,10.0,19344.9
+2024-01-03,Pen Pack,Stationery,West,13,173.81,5.0,2146.55
+2024-01-04,Study Table,Furniture,West,14,9565.03,5.0,127214.9
+2024-01-05,Running Shoes,Apparel,East,16,3015.71,5.0,45838.79
+2024-01-05,USB-C Cable,Electronics,East,8,306.16,0.0,2449.28
+2024-01-05,Table Lamp,Home & Living,South,10,896.35,0.0,8963.5
+2024-01-05,T-Shirt,Apparel,East,9,576.02,5.0,4924.97
+2024-01-06,Study Table,Furniture,South,2,7729.41,15.0,13140.0
+2024-01-07,Study Table,Furniture,East,9,7778.17,0.0,70003.53
+2024-01-08,Table Lamp,Home & Living,West,19,1094.87,0.0,20802.53
+2024-01-08,Dumbbell Set,Sports & Fitness,North,23,3735.88,15.0,73036.45
+2024-01-09,Dumbbell Set,Sports & Fitness,East,5,3402.79,5.0,16163.25
+2024-01-09,Bed Sheet Set,Home & Living,North,18,1652.26,0.0,29740.68
+2024-01-10,USB-C Cable,Electronics,Central,1,336.97,10.0,303.27
+2024-01-10,Backpack,Apparel,South,23,1501.62,0.0,34537.26
+2024-01-12,Office Chair,Furniture,South,11,6666.55,10.0,65998.85
+2024-01-12,USB-C Cable,Electronics,West,8,341.04,15.0,2319.07
+2024-01-13,T-Shirt,Apparel,Central,32,619.93,0.0,19837.76
+2024-01-14,Backpack,Apparel,Central,3,1498.19,0.0,4494.57
+2024-01-15,Study Table,Furniture,South,6,8613.78,5.0,49098.55
+2024-01-15,Notebook Set,Stationery,North,20,294.9,10.0,5308.2
+2024-01-15,Bookshelf,Furniture,West,4,5305.36,0.0,21221.44
+2024-01-16,Laptop Stand,Electronics,East,2,1206.55,10.0,2171.79
+2024-01-17,Dumbbell Set,Sports & Fitness,East,4,3492.07,5.0,13269.87
+2024-01-18,Laptop Stand,Electronics,South,2,1184.84,5.0,2251.2
+2024-01-19,Office Chair,Furniture,North,15,7337.77,10.0,99059.9
+2024-01-20,Dumbbell Set,Sports & Fitness,Central,16,3725.05,0.0,59600.8
+2024-01-21,Wireless Mouse,Electronics,South,9,816.46,0.0,7348.14
+2024-01-21,Table Lamp,Home & Living,Central,13,1020.52,5.0,12603.42
+2024-01-22,Notebook Set,Stationery,South,6,265.06,0.0,1590.36
+2024-01-22,Curtains,Home & Living,East,13,1741.71,15.0,19245.9
+2024-01-23,Office Chair,Furniture,North,2,6822.66,5.0,12963.05
+2024-01-23,Laptop Stand,Electronics,East,12,1109.94,5.0,12653.32
+2024-01-25,Notebook Set,Stationery,East,7,235.36,0.0,1647.52
+2024-01-25,Backpack,Apparel,Central,12,1498.11,0.0,17977.32
+2024-01-26,Table Lamp,Home & Living,Central,19,966.16,10.0,16521.34
+2024-01-26,Dumbbell Set,Sports & Fitness,East,4,3424.73,0.0,13698.92
+2024-01-27,Study Table,Furniture,West,2,9212.67,15.0,15661.54
+2024-01-28,Bookshelf,Furniture,Central,26,4875.3,0.0,126757.8
+2024-01-28,Yoga Mat,Sports & Fitness,North,8,829.79,5.0,6306.4
+2024-01-28,Yoga Mat,Sports & Fitness,West,27,851.28,5.0,21835.33
+2024-01-28,Pen Pack,Stationery,North,26,165.79,0.0,4310.54
+2024-01-29,USB-C Cable,Electronics,East,23,302.6,15.0,5915.83
+2024-02-02,Bluetooth Speaker,Electronics,Central,4,2769.43,10.0,9969.95
+2024-02-02,T-Shirt,Apparel,East,15,604.27,0.0,9064.05
+2024-02-03,Study Table,Furniture,North,10,9128.38,0.0,91283.8
+2024-02-03,T-Shirt,Apparel,Central,10,647.34,0.0,6473.4
+2024-02-04,USB-C Cable,Electronics,Central,20,305.65,15.0,5196.05
+2024-02-04,USB-C Cable,Electronics,Central,9,310.43,5.0,2654.18
+2024-02-05,Bluetooth Speaker,Electronics,East,20,2544.23,5.0,48340.37
+2024-02-05,Table Lamp,Home & Living,East,7,907.71,5.0,6036.27
+2024-02-06,Study Table,Furniture,South,5,7920.08,5.0,37620.38
+2024-02-06,T-Shirt,Apparel,Central,8,612.03,5.0,4651.43
+2024-02-06,Wireless Mouse,Electronics,North,18,930.67,5.0,15914.46
+2024-02-07,Dumbbell Set,Sports & Fitness,North,20,3906.4,0.0,78128.0
+2024-02-08,Notebook Set,Stationery,West,12,279.06,15.0,2846.41
+2024-02-08,Study Table,Furniture,South,19,8573.73,0.0,162900.87
+2024-02-08,Study Table,Furniture,Central,1,8918.73,0.0,8918.73
+2024-02-08,Pen Pack,Stationery,West,10,181.74,5.0,1726.53
+2024-02-09,Backpack,Apparel,East,1,1374.23,0.0,1374.23
+2024-02-10,Curtains,Home & Living,South,10,1889.83,0.0,18898.3
+2024-02-10,Curtains,Home & Living,East,14,1659.97,10.0,20915.62
+2024-02-10,Bed Sheet Set,Home & Living,East,31,1486.62,5.0,43780.96
+2024-02-11,Backpack,Apparel,West,23,1695.83,5.0,37053.89
+2024-02-12,Bluetooth Speaker,Electronics,South,13,2668.88,0.0,34695.44
+2024-02-12,Bluetooth Speaker,Electronics,South,19,2693.58,5.0,48619.12
+2024-02-15,Office Chair,Furniture,North,16,7137.29,15.0,97067.14
+2024-02-15,Running Shoes,Apparel,Central,16,3368.3,15.0,45808.88
+2024-02-16,Office Chair,Furniture,East,21,6092.32,15.0,108747.91
+2024-02-16,Bookshelf,Furniture,West,14,5158.51,0.0,72219.14
+2024-02-16,Office Chair,Furniture,Central,19,7362.73,10.0,125902.68
+2024-02-16,T-Shirt,Apparel,South,20,609.19,0.0,12183.8
+2024-02-17,Table Lamp,Home & Living,East,1,872.77,0.0,872.77
+2024-02-17,USB-C Cable,Electronics,South,21,304.24,0.0,6389.04
+2024-02-18,USB-C Cable,Electronics,South,22,308.05,0.0,6777.1
+2024-02-20,Notebook Set,Stationery,North,18,280.25,5.0,4792.27
+2024-02-20,Yoga Mat,Sports & Fitness,North,20,825.05,10.0,14850.9
+2024-02-20,Laptop Stand,Electronics,West,12,1318.17,0.0,15818.04
+2024-02-22,Study Table,Furniture,Central,3,8668.0,10.0,23403.6
+2024-02-22,Pen Pack,Stationery,East,6,153.2,15.0,781.32
+2024-02-22,Backpack,Apparel,North,23,1777.17,0.0,40874.91
+2024-02-22,Table Lamp,Home & Living,West,28,1039.46,15.0,24739.15
+2024-02-23,Bluetooth Speaker,Electronics,South,23,2633.78,0.0,60576.94
+2024-02-23,Wireless Mouse,Electronics,South,12,777.2,0.0,9326.4
+2024-02-23,Backpack,Apparel,Central,19,1686.52,0.0,32043.88
+2024-02-25,Yoga Mat,Sports & Fitness,Central,9,755.68,10.0,6121.01
+2024-02-25,Bed Sheet Set,Home & Living,South,27,1493.39,10.0,36289.38
+2024-02-27,Dumbbell Set,Sports & Fitness,East,29,3212.88,0.0,93173.52
+2024-02-27,Study Table,Furniture,South,12,8435.96,0.0,101231.52
+2024-02-27,Study Table,Furniture,West,7,8874.96,5.0,59018.48
+2024-02-27,Study Table,Furniture,Central,15,8671.52,5.0,123569.16
+2024-02-28,Curtains,Home & Living,East,19,1738.42,10.0,29726.98
+2024-03-01,Yoga Mat,Sports & Fitness,North,21,782.9,15.0,13974.76
+2024-03-02,Backpack,Apparel,North,12,1699.72,5.0,19376.81
+2024-03-03,Bluetooth Speaker,Electronics,East,23,2327.36,0.0,53529.28
+2024-03-03,Dumbbell Set,Sports & Fitness,North,8,3853.24,15.0,26202.03
+2024-03-05,Curtains,Home & Living,East,20,1681.78,5.0,31953.82
+2024-03-05,Pen Pack,Stationery,East,17,135.91,0.0,2310.47
+2024-03-07,Study Table,Furniture,South,11,8142.7,5.0,85091.21
+2024-03-09,Yoga Mat,Sports & Fitness,North,29,800.0,15.0,19720.0
+2024-03-09,Curtains,Home & Living,Central,9,1895.34,15.0,14499.35
+2024-03-09,Bookshelf,Furniture,West,7,5129.88,10.0,32318.24
+2024-03-10,Notebook Set,Stationery,South,10,257.8,0.0,2578.0
+2024-03-12,Yoga Mat,Sports & Fitness,South,15,727.15,5.0,10361.89
+2024-03-12,Office Chair,Furniture,North,17,6894.27,0.0,117202.59
+2024-03-13,Wireless Mouse,Electronics,East,18,772.58,5.0,13211.12
+2024-03-14,Bluetooth Speaker,Electronics,Central,12,2564.87,0.0,30778.44
+2024-03-15,Bookshelf,Furniture,South,17,4405.81,10.0,67408.89
+2024-03-15,Yoga Mat,Sports & Fitness,South,11,680.1,0.0,7481.1
+2024-03-15,Curtains,Home & Living,South,7,1905.96,0.0,13341.72
+2024-03-16,T-Shirt,Apparel,Central,14,665.7,10.0,8387.82
+2024-03-16,Yoga Mat,Sports & Fitness,South,25,669.14,5.0,15892.07
+2024-03-18,Bed Sheet Set,Home & Living,North,4,1710.1,0.0,6840.4
+2024-03-18,Curtains,Home & Living,East,20,1658.91,0.0,33178.2
+2024-03-18,Table Lamp,Home & Living,Central,20,954.75,10.0,17185.5
+2024-03-20,Yoga Mat,Sports & Fitness,Central,21,778.71,5.0,15535.26
+2024-03-21,Bluetooth Speaker,Electronics,West,10,2936.38,5.0,27895.61
+2024-03-21,Curtains,Home & Living,Central,8,2011.22,0.0,16089.76
+2024-03-21,Bluetooth Speaker,Electronics,West,8,2749.48,5.0,20896.05
+2024-03-23,Wireless Mouse,Electronics,East,2,768.17,0.0,1536.34
+2024-03-25,Study Table,Furniture,Central,2,8475.69,5.0,16103.81
+2024-03-26,Office Chair,Furniture,East,1,6471.73,5.0,6148.14
+2024-03-26,Notebook Set,Stationery,East,15,227.66,10.0,3073.41
+2024-03-26,Bed Sheet Set,Home & Living,East,1,1390.77,0.0,1390.77
+2024-03-28,Dumbbell Set,Sports & Fitness,South,15,3388.3,0.0,50824.5
+2024-03-30,Curtains,Home & Living,South,30,1909.03,0.0,57270.9
+2024-03-30,Bluetooth Speaker,Electronics,East,13,2278.88,10.0,26662.9
+2024-03-30,Curtains,Home & Living,West,21,2057.67,0.0,43211.07
+2024-03-31,Laptop Stand,Electronics,Central,29,1317.79,5.0,36305.11
+2024-04-01,Running Shoes,Apparel,West,26,3783.42,15.0,83613.58
+2024-04-01,Bookshelf,Furniture,South,12,4798.97,0.0,57587.64
+2024-04-02,Dumbbell Set,Sports & Fitness,West,4,4197.17,10.0,15109.81
+2024-04-03,Pen Pack,Stationery,North,15,162.72,0.0,2440.8
+2024-04-04,Notebook Set,Stationery,North,9,267.92,0.0,2411.28
+2024-04-04,Yoga Mat,Sports & Fitness,Central,9,752.47,0.0,6772.23
+2024-04-05,Notebook Set,Stationery,Central,15,283.24,15.0,3611.31
+2024-04-05,USB-C Cable,Electronics,East,5,299.66,5.0,1423.39
+2024-04-05,Table Lamp,Home & Living,Central,18,993.21,10.0,16090.0
+2024-04-07,Notebook Set,Stationery,North,15,284.95,15.0,3633.11
+2024-04-08,Pen Pack,Stationery,Central,3,164.27,0.0,492.81
+2024-04-08,Pen Pack,Stationery,West,18,180.9,0.0,3256.2
+2024-04-08,USB-C Cable,Electronics,East,7,297.26,5.0,1976.78
+2024-04-08,Backpack,Apparel,West,21,1666.74,10.0,31501.39
+2024-04-08,Backpack,Apparel,East,19,1385.22,0.0,26319.18
+2024-04-08,Study Table,Furniture,North,16,8749.38,15.0,118991.57
+2024-04-08,Dumbbell Set,Sports & Fitness,North,21,3815.28,0.0,80120.88
+2024-04-08,Wireless Mouse,Electronics,Central,5,903.0,10.0,4063.5
+2024-04-09,Table Lamp,Home & Living,South,13,868.54,0.0,11291.02
+2024-04-09,Bed Sheet Set,Home & Living,South,9,1568.61,15.0,11999.87
+2024-04-12,Curtains,Home & Living,South,6,1882.56,0.0,11295.36
+2024-04-12,Notebook Set,Stationery,Central,2,261.67,10.0,471.01
+2024-04-12,Table Lamp,Home & Living,North,13,993.5,0.0,12915.5
+2024-04-13,Notebook Set,Stationery,South,25,246.71,10.0,5550.98
+2024-04-13,Backpack,Apparel,West,4,1847.13,0.0,7388.52
+2024-04-14,Laptop Stand,Electronics,East,9,1093.22,5.0,9347.03
+2024-04-15,Bed Sheet Set,Home & Living,South,7,1564.89,5.0,10406.52
+2024-04-15,Yoga Mat,Sports & Fitness,Central,6,706.29,0.0,4237.74
+2024-04-15,Curtains,Home & Living,East,7,1664.37,10.0,10485.53
+2024-04-16,Bed Sheet Set,Home & Living,East,16,1506.61,0.0,24105.76
+2024-04-16,Bookshelf,Furniture,West,6,5338.88,0.0,32033.28
+2024-04-18,Pen Pack,Stationery,Central,22,153.51,10.0,3039.5
+2024-04-18,Bed Sheet Set,Home & Living,Central,1,1558.25,10.0,1402.42
+2024-04-20,Yoga Mat,Sports & Fitness,North,1,756.51,0.0,756.51
+2024-04-20,Pen Pack,Stationery,Central,21,155.17,0.0,3258.57
+2024-04-20,Notebook Set,Stationery,North,23,274.43,10.0,5680.7
+2024-04-21,Yoga Mat,Sports & Fitness,West,17,819.19,0.0,13926.23
+2024-04-22,Bed Sheet Set,Home & Living,Central,16,1638.32,0.0,26213.12
+2024-04-22,Curtains,Home & Living,South,22,1837.63,0.0,40427.86
+2024-04-22,Yoga Mat,Sports & Fitness,North,19,796.98,0.0,15142.62
+2024-04-22,Curtains,Home & Living,East,18,1727.14,5.0,29534.09
+2024-04-24,T-Shirt,Apparel,East,20,598.25,0.0,11965.0
+2024-04-25,Office Chair,Furniture,East,28,5876.01,5.0,156301.87
+2024-04-26,Laptop Stand,Electronics,West,25,1444.05,10.0,32491.12
+2024-04-26,Yoga Mat,Sports & Fitness,East,7,651.58,5.0,4333.01
+2024-04-27,Curtains,Home & Living,North,16,1927.24,5.0,29294.05
+2024-04-27,Wireless Mouse,Electronics,Central,8,875.77,0.0,7006.16
+2024-04-27,Running Shoes,Apparel,North,1,3770.98,10.0,3393.88
+2024-04-27,Backpack,Apparel,North,15,1708.66,0.0,25629.9
+2024-04-28,Bookshelf,Furniture,West,5,5490.32,5.0,26079.02
+2024-04-29,Bed Sheet Set,Home & Living,West,23,1653.67,0.0,38034.41
+2024-04-29,Laptop Stand,Electronics,South,18,1265.49,0.0,22778.82
+2024-04-30,Office Chair,Furniture,South,18,6306.69,0.0,113520.42
+2024-05-01,Yoga Mat,Sports & Fitness,South,10,738.99,0.0,7389.9
+2024-05-01,Bookshelf,Furniture,East,7,4454.15,10.0,28061.14
+2024-05-02,Yoga Mat,Sports & Fitness,West,12,849.24,0.0,10190.88
+2024-05-03,Office Chair,Furniture,East,18,6596.45,5.0,112799.29
+2024-05-04,Bed Sheet Set,Home & Living,East,5,1487.64,5.0,7066.29
+2024-05-05,Dumbbell Set,Sports & Fitness,West,8,4283.89,15.0,29130.45
+2024-05-05,Curtains,Home & Living,North,8,2003.12,0.0,16024.96
+2024-05-05,Bed Sheet Set,Home & Living,South,1,1522.98,0.0,1522.98
+2024-05-06,Study Table,Furniture,South,12,8612.0,10.0,93009.6
+2024-05-07,Table Lamp,Home & Living,Central,18,940.32,0.0,16925.76
+2024-05-08,Study Table,Furniture,South,24,7999.2,5.0,182381.76
+2024-05-09,Bed Sheet Set,Home & Living,Central,15,1586.41,5.0,22606.34
+2024-05-10,Running Shoes,Apparel,North,18,3792.79,0.0,68270.22
+2024-05-10,Wireless Mouse,Electronics,East,21,795.53,0.0,16706.13
+2024-05-10,Study Table,Furniture,South,4,8554.01,0.0,34216.04
+2024-05-11,Running Shoes,Apparel,East,11,2902.07,15.0,27134.35
+2024-05-12,Notebook Set,Stationery,South,8,257.91,10.0,1856.95
+2024-05-12,Pen Pack,Stationery,West,14,178.27,0.0,2495.78
+2024-05-13,Wireless Mouse,Electronics,North,20,887.52,10.0,15975.36
+2024-05-14,Laptop Stand,Electronics,North,6,1356.12,0.0,8136.72
+2024-05-14,Table Lamp,Home & Living,South,2,860.64,15.0,1463.09
+2024-05-16,Curtains,Home & Living,South,1,1827.73,0.0,1827.73
+2024-05-17,Office Chair,Furniture,Central,9,6916.64,0.0,62249.76
+2024-05-18,Bluetooth Speaker,Electronics,East,1,2296.66,15.0,1952.16
+2024-05-18,T-Shirt,Apparel,Central,16,639.92,0.0,10238.72
+2024-05-19,USB-C Cable,Electronics,South,24,298.48,5.0,6805.34
+2024-05-22,Curtains,Home & Living,East,18,1842.62,5.0,31508.8
+2024-05-22,Wireless Mouse,Electronics,South,12,822.99,0.0,9875.88
+2024-05-23,T-Shirt,Apparel,West,1,727.63,10.0,654.87
+2024-05-23,Notebook Set,Stationery,North,12,289.72,10.0,3128.98
+2024-05-23,Office Chair,Furniture,West,1,7251.35,0.0,7251.35
+2024-05-23,Laptop Stand,Electronics,North,7,1408.94,10.0,8876.32
+2024-05-24,USB-C Cable,Electronics,West,19,330.54,10.0,5652.23
+2024-05-24,Office Chair,Furniture,North,6,7586.92,5.0,43245.44
+2024-05-24,Bookshelf,Furniture,Central,12,4646.91,0.0,55762.92
+2024-05-25,Laptop Stand,Electronics,East,15,1110.79,10.0,14995.66
+2024-05-25,Backpack,Apparel,Central,27,1588.87,0.0,42899.49
+2024-05-26,Table Lamp,Home & Living,North,23,955.15,0.0,21968.45
+2024-05-27,Bookshelf,Furniture,North,8,4992.46,15.0,33948.73
+2024-05-28,Laptop Stand,Electronics,West,4,1366.51,15.0,4646.13
+2024-05-29,Running Shoes,Apparel,East,2,3079.27,0.0,6158.54
+2024-05-30,Notebook Set,Stationery,South,10,253.3,5.0,2406.35
+2024-05-30,Table Lamp,Home & Living,North,23,942.65,0.0,21680.95
+2024-05-31,Pen Pack,Stationery,North,7,175.7,0.0,1229.9
+2024-06-01,Running Shoes,Apparel,North,17,3740.53,5.0,60409.56
+2024-06-02,Bed Sheet Set,Home & Living,Central,7,1554.36,5.0,10336.49
+2024-06-02,Dumbbell Set,Sports & Fitness,North,11,3682.65,0.0,40509.15
+2024-06-03,Running Shoes,Apparel,North,15,3385.82,0.0,50787.3
+2024-06-05,Yoga Mat,Sports & Fitness,West,19,769.32,0.0,14617.08
+2024-06-06,Bookshelf,Furniture,Central,2,4520.63,0.0,9041.26
+2024-06-08,Laptop Stand,Electronics,Central,9,1325.16,10.0,10733.8
+2024-06-08,Laptop Stand,Electronics,East,11,1093.1,0.0,12024.1
+2024-06-08,Dumbbell Set,Sports & Fitness,East,5,3541.8,15.0,15052.65
+2024-06-09,Yoga Mat,Sports & Fitness,East,7,667.76,10.0,4206.89
+2024-06-09,Notebook Set,Stationery,North,4,268.59,0.0,1074.36
+2024-06-09,Wireless Mouse,Electronics,West,7,877.24,0.0,6140.68
+2024-06-10,Wireless Mouse,Electronics,East,16,749.03,15.0,10186.81
+2024-06-11,Dumbbell Set,Sports & Fitness,Central,9,3624.27,0.0,32618.43
+2024-06-11,Pen Pack,Stationery,West,1,177.26,10.0,159.53
+2024-06-13,Notebook Set,Stationery,West,8,296.9,0.0,2375.2
+2024-06-14,Running Shoes,Apparel,North,5,3610.43,0.0,18052.15
+2024-06-15,Bookshelf,Furniture,Central,21,5085.22,15.0,90771.18
+2024-06-15,Study Table,Furniture,North,16,8438.01,0.0,135008.16
+2024-06-16,Study Table,Furniture,West,19,9820.28,0.0,186585.32
+2024-06-16,T-Shirt,Apparel,East,15,568.48,5.0,8100.84
+2024-06-16,Table Lamp,Home & Living,South,7,879.81,0.0,6158.67
+2024-06-18,Bed Sheet Set,Home & Living,South,15,1531.46,15.0,19526.12
+2024-06-19,Curtains,Home & Living,West,8,2135.48,5.0,16229.65
+2024-06-20,T-Shirt,Apparel,South,15,591.48,15.0,7541.37
+2024-06-20,Laptop Stand,Electronics,South,17,1185.24,15.0,17126.72
+2024-06-21,Yoga Mat,Sports & Fitness,East,14,675.26,10.0,8508.28
+2024-06-21,USB-C Cable,Electronics,West,12,342.13,0.0,4105.56
+2024-06-21,Dumbbell Set,Sports & Fitness,Central,13,3564.41,10.0,41703.6
+2024-06-22,Laptop Stand,Electronics,South,10,1256.25,0.0,12562.5
+2024-06-24,Wireless Mouse,Electronics,Central,21,842.92,10.0,15931.19
+2024-06-25,USB-C Cable,Electronics,South,7,294.52,15.0,1752.39
+2024-06-25,Running Shoes,Apparel,South,3,3155.26,15.0,8045.91
+2024-06-26,Notebook Set,Stationery,East,2,246.44,0.0,492.88
+2024-06-28,Wireless Mouse,Electronics,Central,1,873.21,10.0,785.89
+2024-06-29,Running Shoes,Apparel,West,12,3960.17,0.0,47522.04
+2024-06-30,Table Lamp,Home & Living,East,8,903.27,0.0,7226.16
+2024-07-01,Pen Pack,Stationery,East,13,150.45,0.0,1955.85
+2024-07-02,Notebook Set,Stationery,Central,14,268.68,15.0,3197.29
+2024-07-02,Wireless Mouse,Electronics,East,11,743.01,0.0,8173.11
+2024-07-04,Notebook Set,Stationery,West,8,288.54,0.0,2308.32
+2024-07-05,Pen Pack,Stationery,South,1,156.04,0.0,156.04
+2024-07-06,Study Table,Furniture,North,7,8701.87,15.0,51776.13
+2024-07-07,Office Chair,Furniture,West,8,7606.63,5.0,57810.39
+2024-07-08,Notebook Set,Stationery,East,17,245.32,10.0,3753.4
+2024-07-08,Bed Sheet Set,Home & Living,South,12,1482.61,10.0,16012.19
+2024-07-08,Table Lamp,Home & Living,West,18,1061.5,10.0,17196.3
+2024-07-08,Dumbbell Set,Sports & Fitness,West,8,3938.92,0.0,31511.36
+2024-07-08,Pen Pack,Stationery,South,9,145.74,10.0,1180.49
+2024-07-09,Wireless Mouse,Electronics,North,13,876.38,5.0,10823.29
+2024-07-09,Table Lamp,Home & Living,North,3,1035.47,5.0,2951.09
+2024-07-10,Bluetooth Speaker,Electronics,Central,6,2601.22,0.0,15607.32
+2024-07-10,Dumbbell Set,Sports & Fitness,South,13,3579.64,0.0,46535.32
+2024-07-10,Backpack,Apparel,West,20,1838.91,0.0,36778.2
+2024-07-10,T-Shirt,Apparel,Central,17,607.9,0.0,10334.3
+2024-07-12,Dumbbell Set,Sports & Fitness,South,5,3470.63,0.0,17353.15
+2024-07-12,Yoga Mat,Sports & Fitness,East,19,652.12,15.0,10531.74
+2024-07-13,Running Shoes,Apparel,North,6,3552.17,0.0,21313.02
+2024-07-13,Notebook Set,Stationery,South,12,265.32,0.0,3183.84
+2024-07-13,Laptop Stand,Electronics,West,5,1446.17,0.0,7230.85
+2024-07-14,Table Lamp,Home & Living,South,17,925.9,10.0,14166.27
+2024-07-14,Running Shoes,Apparel,West,2,3504.2,15.0,5957.14
+2024-07-16,Table Lamp,Home & Living,East,17,824.76,10.0,12618.83
+2024-07-19,Notebook Set,Stationery,Central,13,278.65,0.0,3622.45
+2024-07-19,Pen Pack,Stationery,West,12,175.57,0.0,2106.84
+2024-07-19,Table Lamp,Home & Living,North,6,977.65,0.0,5865.9
+2024-07-20,Pen Pack,Stationery,East,6,150.68,0.0,904.08
+2024-07-21,Running Shoes,Apparel,East,21,2935.07,0.0,61636.47
+2024-07-21,Notebook Set,Stationery,South,6,259.65,0.0,1557.9
+2024-07-22,USB-C Cable,Electronics,West,9,354.45,0.0,3190.05
+2024-07-23,Notebook Set,Stationery,East,9,232.17,0.0,2089.53
+2024-07-24,Laptop Stand,Electronics,North,9,1366.44,5.0,11683.06
+2024-07-25,Notebook Set,Stationery,North,1,285.66,5.0,271.38
+2024-07-25,Laptop Stand,Electronics,Central,8,1314.54,5.0,9990.5
+2024-07-26,Study Table,Furniture,South,7,8392.27,0.0,58745.89
+2024-07-30,Bookshelf,Furniture,Central,15,5001.8,0.0,75027.0
+2024-07-31,Bed Sheet Set,Home & Living,East,14,1497.65,10.0,18870.39
+2024-08-01,T-Shirt,Apparel,West,8,691.61,15.0,4702.95
+2024-08-02,Backpack,Apparel,West,19,1817.54,0.0,34533.26
+2024-08-02,Notebook Set,Stationery,East,8,233.92,0.0,1871.36
+2024-08-03,Study Table,Furniture,East,23,7490.38,15.0,146436.93
+2024-08-04,Dumbbell Set,Sports & Fitness,North,16,4013.44,0.0,64215.04
+2024-08-04,Backpack,Apparel,South,17,1584.08,5.0,25582.89
+2024-08-04,Dumbbell Set,Sports & Fitness,South,11,3614.58,10.0,35784.34
+2024-08-04,Running Shoes,Apparel,West,29,3576.28,0.0,103712.12
+2024-08-05,Office Chair,Furniture,West,20,7753.71,10.0,139566.78
+2024-08-05,Yoga Mat,Sports & Fitness,Central,1,698.73,0.0,698.73
+2024-08-07,Dumbbell Set,Sports & Fitness,West,10,4216.57,5.0,40057.41
+2024-08-07,Backpack,Apparel,North,13,1772.05,0.0,23036.65
+2024-08-07,Table Lamp,Home & Living,North,22,1033.57,0.0,22738.54
+2024-08-07,Laptop Stand,Electronics,East,15,1126.54,0.0,16898.1
+2024-08-10,Dumbbell Set,Sports & Fitness,North,3,3838.96,10.0,10365.19
+2024-08-10,Laptop Stand,Electronics,North,15,1421.35,15.0,18122.21
+2024-08-10,Table Lamp,Home & Living,South,20,961.24,0.0,19224.8
+2024-08-11,Curtains,Home & Living,East,7,1723.54,15.0,10255.06
+2024-08-12,Study Table,Furniture,North,10,8793.58,0.0,87935.8
+2024-08-12,Office Chair,Furniture,South,4,6923.84,5.0,26310.59
+2024-08-12,Study Table,Furniture,West,16,9267.52,0.0,148280.32
+2024-08-12,Table Lamp,Home & Living,South,2,926.96,10.0,1668.53
+2024-08-13,Bluetooth Speaker,Electronics,Central,4,2712.36,5.0,10306.97
+2024-08-14,Pen Pack,Stationery,South,8,154.92,5.0,1177.39
+2024-08-14,Pen Pack,Stationery,North,20,157.98,0.0,3159.6
+2024-08-15,Laptop Stand,Electronics,North,2,1268.86,5.0,2410.83
+2024-08-16,Laptop Stand,Electronics,Central,18,1266.83,0.0,22802.94
+2024-08-16,Study Table,Furniture,North,7,9000.35,10.0,56702.21
+2024-08-16,Bookshelf,Furniture,Central,18,4802.34,0.0,86442.12
+2024-08-17,Bookshelf,Furniture,Central,18,5033.15,0.0,90596.7
+2024-08-17,Wireless Mouse,Electronics,South,2,812.06,5.0,1542.91
+2024-08-18,Study Table,Furniture,Central,21,8895.22,15.0,158779.68
+2024-08-18,Backpack,Apparel,South,2,1532.99,0.0,3065.98
+2024-08-18,Laptop Stand,Electronics,South,25,1157.53,0.0,28938.25
+2024-08-18,Dumbbell Set,Sports & Fitness,East,21,3201.28,5.0,63865.54
+2024-08-20,Bookshelf,Furniture,West,18,5107.76,0.0,91939.68
+2024-08-20,Pen Pack,Stationery,Central,17,161.77,5.0,2612.59
+2024-08-20,Study Table,Furniture,Central,13,8024.7,0.0,104321.1
+2024-08-20,Laptop Stand,Electronics,South,13,1257.77,15.0,13898.36
+2024-08-20,Running Shoes,Apparel,North,5,3509.76,0.0,17548.8
+2024-08-20,Dumbbell Set,Sports & Fitness,South,19,3382.83,0.0,64273.77
+2024-08-21,Office Chair,Furniture,Central,5,7033.48,0.0,35167.4
+2024-08-22,Bluetooth Speaker,Electronics,North,6,2636.59,10.0,14237.59
+2024-08-23,Bluetooth Speaker,Electronics,North,25,2776.17,0.0,69404.25
+2024-08-24,Study Table,Furniture,West,3,8958.67,10.0,24188.41
+2024-08-26,Curtains,Home & Living,East,10,1699.46,0.0,16994.6
+2024-08-26,Bookshelf,Furniture,North,12,5298.27,5.0,60400.28
+2024-08-28,T-Shirt,Apparel,South,15,628.88,0.0,9433.2
+2024-08-29,Pen Pack,Stationery,Central,11,167.51,15.0,1566.22
+2024-08-29,Pen Pack,Stationery,North,2,171.33,5.0,325.53
+2024-08-30,Yoga Mat,Sports & Fitness,West,5,766.6,5.0,3641.35
+2024-08-30,Curtains,Home & Living,North,17,2022.71,10.0,30947.46
+2024-08-31,Backpack,Apparel,East,2,1367.67,10.0,2461.81
+2024-09-02,Curtains,Home & Living,North,7,1966.87,10.0,12391.28
+2024-09-03,Notebook Set,Stationery,South,19,267.89,0.0,5089.91
+2024-09-03,Laptop Stand,Electronics,West,21,1445.34,5.0,28834.53
+2024-09-05,T-Shirt,Apparel,South,13,604.78,10.0,7075.93
+2024-09-05,Laptop Stand,Electronics,West,11,1440.72,5.0,15055.52
+2024-09-06,Bluetooth Speaker,Electronics,North,1,2795.84,0.0,2795.84
+2024-09-07,Curtains,Home & Living,South,10,1770.29,0.0,17702.9
+2024-09-08,Laptop Stand,Electronics,West,19,1419.95,0.0,26979.05
+2024-09-08,Backpack,Apparel,North,9,1755.71,10.0,14221.25
+2024-09-09,Pen Pack,Stationery,Central,18,158.4,0.0,2851.2
+2024-09-09,Bluetooth Speaker,Electronics,North,1,2956.28,10.0,2660.65
+2024-09-09,Backpack,Apparel,West,20,1753.61,5.0,33318.59
+2024-09-09,USB-C Cable,Electronics,North,19,351.04,10.0,6002.78
+2024-09-09,Wireless Mouse,Electronics,Central,15,824.99,0.0,12374.85
+2024-09-09,USB-C Cable,Electronics,Central,2,324.83,0.0,649.66
+2024-09-10,Bookshelf,Furniture,Central,19,5090.09,5.0,91876.12
+2024-09-10,Pen Pack,Stationery,Central,13,150.26,15.0,1660.37
+2024-09-10,Laptop Stand,Electronics,East,9,1084.6,10.0,8785.26
+2024-09-12,Wireless Mouse,Electronics,Central,7,819.73,0.0,5738.11
+2024-09-12,Notebook Set,Stationery,West,24,282.94,5.0,6451.03
+2024-09-13,Dumbbell Set,Sports & Fitness,East,3,3426.56,5.0,9765.7
+2024-09-14,Yoga Mat,Sports & Fitness,Central,15,751.41,0.0,11271.15
+2024-09-15,Office Chair,Furniture,North,29,7223.37,10.0,188529.96
+2024-09-15,Bed Sheet Set,Home & Living,West,25,1699.15,5.0,40354.81
+2024-09-15,Notebook Set,Stationery,North,1,278.61,15.0,236.82
+2024-09-17,Pen Pack,Stationery,West,2,164.29,5.0,312.15
+2024-09-19,Bed Sheet Set,Home & Living,East,24,1481.28,0.0,35550.72
+2024-09-20,USB-C Cable,Electronics,West,21,347.14,0.0,7289.94
+2024-09-21,USB-C Cable,Electronics,North,30,348.93,5.0,9944.5
+2024-09-24,Yoga Mat,Sports & Fitness,South,20,741.88,0.0,14837.6
+2024-09-24,USB-C Cable,Electronics,East,26,292.01,0.0,7592.26
+2024-09-24,Table Lamp,Home & Living,North,20,950.39,0.0,19007.8
+2024-09-25,Running Shoes,Apparel,South,5,3235.22,0.0,16176.1
+2024-09-26,Bluetooth Speaker,Electronics,West,3,2787.71,0.0,8363.13
+2024-09-27,Bluetooth Speaker,Electronics,West,1,2945.96,10.0,2651.36
+2024-09-27,Dumbbell Set,Sports & Fitness,Central,6,3702.56,0.0,22215.36
+2024-09-28,Study Table,Furniture,North,4,9382.72,0.0,37530.88
+2024-09-29,Dumbbell Set,Sports & Fitness,South,19,3565.32,0.0,67741.08
+2024-09-29,Wireless Mouse,Electronics,West,3,993.33,5.0,2830.99
+2024-09-30,Bookshelf,Furniture,East,10,4422.58,0.0,44225.8
+2024-09-30,Bookshelf,Furniture,South,8,4570.49,15.0,31079.33
+2024-10-03,Wireless Mouse,Electronics,Central,3,827.57,15.0,2110.3
+2024-10-03,USB-C Cable,Electronics,West,6,347.42,5.0,1980.29
+2024-10-03,Study Table,Furniture,West,9,9432.69,0.0,84894.21
+2024-10-03,T-Shirt,Apparel,North,5,706.47,5.0,3355.73
+2024-10-03,Study Table,Furniture,West,19,8892.33,0.0,168954.27
+2024-10-05,USB-C Cable,Electronics,East,13,286.02,25.0,2788.69
+2024-10-06,Bookshelf,Furniture,East,28,4466.38,20.0,100046.91
+2024-10-06,Pen Pack,Stationery,North,25,162.76,20.0,3255.2
+2024-10-07,Laptop Stand,Electronics,West,3,1356.42,20.0,3255.41
+2024-10-08,Laptop Stand,Electronics,South,5,1190.39,20.0,4761.56
+2024-10-08,Bluetooth Speaker,Electronics,West,9,2781.7,5.0,23783.53
+2024-10-09,T-Shirt,Apparel,East,25,546.92,15.0,11622.05
+2024-10-09,Dumbbell Set,Sports & Fitness,North,31,3845.68,15.0,101333.67
+2024-10-10,Office Chair,Furniture,East,4,5866.61,25.0,17599.83
+2024-10-11,Bed Sheet Set,Home & Living,Central,4,1565.34,20.0,5009.09
+2024-10-11,Study Table,Furniture,South,18,8145.73,20.0,117298.51
+2024-10-14,Pen Pack,Stationery,North,1,172.32,15.0,146.47
+2024-10-15,Running Shoes,Apparel,East,11,3155.57,20.0,27769.02
+2024-10-15,Office Chair,Furniture,North,15,7404.73,25.0,83303.21
+2024-10-15,T-Shirt,Apparel,South,27,570.39,25.0,11550.4
+2024-10-20,Yoga Mat,Sports & Fitness,West,4,848.72,10.0,3055.39
+2024-10-22,Running Shoes,Apparel,Central,23,3363.44,10.0,69623.21
+2024-10-24,Running Shoes,Apparel,South,16,3167.43,20.0,40543.1
+2024-10-26,Pen Pack,Stationery,Central,29,165.13,10.0,4309.89
+2024-10-27,Yoga Mat,Sports & Fitness,North,1,802.13,10.0,721.92
+2024-10-28,Bluetooth Speaker,Electronics,Central,26,2796.13,20.0,58159.5
+2024-10-28,Pen Pack,Stationery,East,6,148.98,10.0,804.49
+2024-10-29,Laptop Stand,Electronics,South,38,1248.94,5.0,45086.73
+2024-10-29,Running Shoes,Apparel,Central,27,3229.91,5.0,82847.19
+2024-10-30,Office Chair,Furniture,South,4,6684.49,20.0,21390.37
+2024-10-31,Laptop Stand,Electronics,Central,6,1285.72,20.0,6171.46
+2024-10-31,Study Table,Furniture,East,9,7397.44,5.0,63248.11
+2024-11-01,T-Shirt,Apparel,Central,1,673.94,25.0,505.46
+2024-11-01,Yoga Mat,Sports & Fitness,East,12,633.21,25.0,5698.89
+2024-11-03,T-Shirt,Apparel,East,14,552.14,15.0,6570.47
+2024-11-04,Pen Pack,Stationery,East,21,146.08,5.0,2914.3
+2024-11-07,Running Shoes,Apparel,Central,11,3299.74,10.0,32667.43
+2024-11-09,Laptop Stand,Electronics,East,39,1113.38,5.0,41250.73
+2024-11-09,Bluetooth Speaker,Electronics,Central,20,2755.32,15.0,46840.44
+2024-11-10,Backpack,Apparel,Central,3,1630.45,5.0,4646.78
+2024-11-11,Curtains,Home & Living,West,29,2233.0,0.0,64757.0
+2024-11-11,Notebook Set,Stationery,West,2,279.4,10.0,502.92
+2024-11-13,Table Lamp,Home & Living,Central,4,991.24,0.0,3964.96
+2024-11-14,Study Table,Furniture,South,21,8295.82,0.0,174212.22
+2024-11-15,Running Shoes,Apparel,West,1,3500.51,20.0,2800.41
+2024-11-15,Bluetooth Speaker,Electronics,North,34,2931.93,20.0,79748.5
+2024-11-16,Notebook Set,Stationery,North,34,271.36,10.0,8303.62
+2024-11-16,Bed Sheet Set,Home & Living,Central,11,1557.02,15.0,14558.14
+2024-11-17,Bed Sheet Set,Home & Living,South,29,1607.36,10.0,41952.1
+2024-11-18,Table Lamp,Home & Living,North,8,975.39,15.0,6632.65
+2024-11-18,Curtains,Home & Living,North,14,2130.85,0.0,29831.9
+2024-11-20,Study Table,Furniture,East,25,8136.96,20.0,162739.2
+2024-11-21,Backpack,Apparel,East,27,1441.52,10.0,35028.94
+2024-11-21,T-Shirt,Apparel,North,26,679.09,15.0,15007.89
+2024-11-22,Notebook Set,Stationery,East,9,252.24,0.0,2270.16
+2024-11-25,Pen Pack,Stationery,Central,17,169.12,15.0,2443.78
+2024-11-25,Dumbbell Set,Sports & Fitness,Central,17,3789.13,0.0,64415.21
+2024-11-26,Table Lamp,Home & Living,North,22,1048.72,0.0,23071.84
+2024-11-26,Dumbbell Set,Sports & Fitness,West,2,4136.89,15.0,7032.71
+2024-11-30,Curtains,Home & Living,West,3,2211.44,5.0,6302.6
+2024-11-30,Office Chair,Furniture,West,8,8051.08,25.0,48306.48
+2024-12-01,Pen Pack,Stationery,East,5,143.03,15.0,607.88
+2024-12-02,Bookshelf,Furniture,Central,2,4943.61,20.0,7909.78
+2024-12-03,T-Shirt,Apparel,South,13,622.15,15.0,6874.76
+2024-12-03,Dumbbell Set,Sports & Fitness,East,22,3563.47,15.0,66636.89
+2024-12-03,Wireless Mouse,Electronics,South,25,813.84,0.0,20346.0
+2024-12-04,Dumbbell Set,Sports & Fitness,East,26,3315.65,20.0,68965.52
+2024-12-05,Study Table,Furniture,South,17,7706.24,15.0,111355.17
+2024-12-05,Table Lamp,Home & Living,North,4,1062.76,20.0,3400.83
+2024-12-06,T-Shirt,Apparel,West,26,694.97,20.0,14455.38
+2024-12-07,Bookshelf,Furniture,Central,7,4732.46,10.0,29814.5
+2024-12-07,Bookshelf,Furniture,West,9,5527.26,20.0,39796.27
+2024-12-07,USB-C Cable,Electronics,North,33,337.2,15.0,9458.46
+2024-12-09,Table Lamp,Home & Living,West,2,1100.77,25.0,1651.15
+2024-12-09,Wireless Mouse,Electronics,North,17,837.5,15.0,12101.88
+2024-12-11,Curtains,Home & Living,North,28,1942.46,0.0,54388.88
+2024-12-11,Office Chair,Furniture,South,35,6969.95,20.0,195158.6
+2024-12-11,Study Table,Furniture,East,16,8189.32,20.0,104823.3
+2024-12-11,Laptop Stand,Electronics,East,14,1183.35,15.0,14081.86
+2024-12-11,Backpack,Apparel,Central,14,1666.87,20.0,18668.94
+2024-12-13,Bed Sheet Set,Home & Living,North,6,1652.71,5.0,9420.45
+2024-12-13,Bed Sheet Set,Home & Living,East,32,1362.78,20.0,34887.17
+2024-12-13,Study Table,Furniture,West,10,9655.32,25.0,72414.9
+2024-12-13,Office Chair,Furniture,Central,29,6547.71,0.0,189883.59
+2024-12-14,Pen Pack,Stationery,South,15,149.04,25.0,1676.7
+2024-12-14,Bluetooth Speaker,Electronics,East,1,2381.9,20.0,1905.52
+2024-12-15,Wireless Mouse,Electronics,South,30,802.42,5.0,22868.97
+2024-12-15,Pen Pack,Stationery,South,10,142.8,20.0,1142.4
+2024-12-15,Pen Pack,Stationery,North,7,177.61,15.0,1056.78
+2024-12-15,Pen Pack,Stationery,West,21,163.99,25.0,2582.84
+2024-12-19,Pen Pack,Stationery,Central,28,163.41,10.0,4117.93
+2024-12-22,Office Chair,Furniture,South,37,6252.88,15.0,196653.08
+2024-12-23,Dumbbell Set,Sports & Fitness,South,10,3632.76,10.0,32694.84
+2024-12-24,Backpack,Apparel,South,27,1584.47,5.0,40641.66
+2024-12-25,Study Table,Furniture,West,3,8991.39,10.0,24276.75
+2024-12-26,Table Lamp,Home & Living,East,20,864.77,10.0,15565.86
+2024-12-28,Notebook Set,Stationery,North,40,272.5,15.0,9265.0
+2024-12-30,Office Chair,Furniture,South,19,6212.1,5.0,112128.4
+2024-12-30,Pen Pack,Stationery,Central,22,156.67,15.0,2929.73
+2024-12-30,Curtains,Home & Living,South,14,1782.82,5.0,23711.51
+2025-01-01,Bluetooth Speaker,Electronics,North,3,2949.53,5.0,8406.16
+2025-01-01,Dumbbell Set,Sports & Fitness,South,22,3530.29,0.0,77666.38
+2025-01-03,Wireless Mouse,Electronics,East,23,758.04,5.0,16563.17
+2025-01-03,Yoga Mat,Sports & Fitness,West,20,860.74,5.0,16354.06
+2025-01-03,T-Shirt,Apparel,East,10,591.36,5.0,5617.92
+2025-01-04,USB-C Cable,Electronics,North,7,315.79,5.0,2100.0
+2025-01-07,USB-C Cable,Electronics,Central,11,332.69,10.0,3293.63
+2025-01-07,Yoga Mat,Sports & Fitness,Central,20,771.5,15.0,13115.5
+2025-01-07,USB-C Cable,Electronics,Central,8,302.46,5.0,2298.7
+2025-01-07,Wireless Mouse,Electronics,West,12,957.32,15.0,9764.66
+2025-01-08,Wireless Mouse,Electronics,Central,11,799.53,5.0,8355.09
+2025-01-08,Pen Pack,Stationery,East,12,153.57,0.0,1842.84
+2025-01-08,Table Lamp,Home & Living,West,13,995.43,5.0,12293.56
+2025-01-09,Running Shoes,Apparel,West,17,3589.69,0.0,61024.73
+2025-01-10,Study Table,Furniture,West,25,9574.61,15.0,203460.46
+2025-01-11,Laptop Stand,Electronics,East,17,1138.23,0.0,19349.91
+2025-01-11,Bluetooth Speaker,Electronics,Central,21,2717.77,0.0,57073.17
+2025-01-13,Bookshelf,Furniture,East,12,4131.13,0.0,49573.56
+2025-01-14,Laptop Stand,Electronics,South,16,1190.6,0.0,19049.6
+2025-01-14,Bed Sheet Set,Home & Living,South,20,1583.89,0.0,31677.8
+2025-01-18,Dumbbell Set,Sports & Fitness,East,17,3325.21,10.0,50875.71
+2025-01-19,Laptop Stand,Electronics,East,5,1129.97,0.0,5649.85
+2025-01-19,T-Shirt,Apparel,South,10,619.5,10.0,5575.5
+2025-01-19,Table Lamp,Home & Living,North,21,956.62,5.0,19084.57
+2025-01-20,Wireless Mouse,Electronics,South,7,763.9,5.0,5079.93
+2025-01-20,USB-C Cable,Electronics,South,6,294.23,10.0,1588.84
+2025-01-20,Bed Sheet Set,Home & Living,East,2,1464.36,5.0,2782.28
+2025-01-20,Pen Pack,Stationery,Central,16,150.97,10.0,2173.97
+2025-01-21,Running Shoes,Apparel,West,16,3521.0,0.0,56336.0
+2025-01-21,Running Shoes,Apparel,South,15,3200.91,0.0,48013.65
+2025-01-22,Laptop Stand,Electronics,South,12,1277.07,10.0,13792.36
+2025-01-22,T-Shirt,Apparel,West,3,685.99,10.0,1852.17
+2025-01-23,Pen Pack,Stationery,South,15,160.19,0.0,2402.85
+2025-01-24,USB-C Cable,Electronics,South,13,307.17,10.0,3593.89
+2025-01-24,Curtains,Home & Living,West,5,2203.75,15.0,9365.94
+2025-01-26,Pen Pack,Stationery,East,21,136.45,15.0,2435.63
+2025-01-26,Curtains,Home & Living,Central,31,1969.8,15.0,51904.23
+2025-01-26,Running Shoes,Apparel,Central,14,3560.73,10.0,44865.2
+2025-01-27,Bed Sheet Set,Home & Living,West,7,1780.16,0.0,12461.12
+2025-01-27,Running Shoes,Apparel,South,12,3246.66,15.0,33115.93
+2025-01-27,Bookshelf,Furniture,East,3,4444.9,15.0,11334.49
+2025-01-27,Laptop Stand,Electronics,South,25,1221.35,0.0,30533.75
+2025-01-28,Bed Sheet Set,Home & Living,East,9,1485.67,0.0,13371.03
+2025-01-28,Pen Pack,Stationery,North,9,171.69,5.0,1467.95
+2025-01-30,Dumbbell Set,Sports & Fitness,North,20,3668.62,15.0,62366.54
+2025-01-30,Office Chair,Furniture,South,4,6931.33,0.0,27725.32
+2025-01-31,Notebook Set,Stationery,South,21,251.87,0.0,5289.27
+2025-01-31,Table Lamp,Home & Living,Central,27,964.12,0.0,26031.24
+2025-02-01,Backpack,Apparel,Central,31,1521.99,10.0,42463.52
+2025-02-01,Bed Sheet Set,Home & Living,Central,26,1682.97,0.0,43757.22
+2025-02-01,Wireless Mouse,Electronics,Central,16,823.14,0.0,13170.24
+2025-02-03,USB-C Cable,Electronics,South,10,287.25,0.0,2872.5
+2025-02-04,USB-C Cable,Electronics,West,3,351.11,5.0,1000.66
+2025-02-04,Yoga Mat,Sports & Fitness,South,24,730.46,5.0,16654.49
+2025-02-04,Pen Pack,Stationery,West,21,181.15,10.0,3423.74
+2025-02-04,Dumbbell Set,Sports & Fitness,South,6,3580.0,0.0,21480.0
+2025-02-05,Dumbbell Set,Sports & Fitness,Central,3,3859.53,15.0,9841.8
+2025-02-05,USB-C Cable,Electronics,Central,15,329.96,10.0,4454.46
+2025-02-06,Dumbbell Set,Sports & Fitness,South,19,3400.55,5.0,61379.93
+2025-02-06,Study Table,Furniture,East,1,7325.54,0.0,7325.54
+2025-02-06,Backpack,Apparel,North,15,1627.71,0.0,24415.65
+2025-02-07,Dumbbell Set,Sports & Fitness,West,3,3880.92,10.0,10478.48
+2025-02-08,T-Shirt,Apparel,North,5,628.08,5.0,2983.38
+2025-02-08,Curtains,Home & Living,North,4,1931.45,15.0,6566.93
+2025-02-10,Wireless Mouse,Electronics,North,2,844.37,5.0,1604.3
+2025-02-10,Wireless Mouse,Electronics,Central,5,804.89,0.0,4024.45
+2025-02-11,Laptop Stand,Electronics,Central,18,1244.37,0.0,22398.66
+2025-02-11,Notebook Set,Stationery,West,1,299.13,15.0,254.26
+2025-02-12,T-Shirt,Apparel,North,23,664.21,10.0,13749.15
+2025-02-13,Laptop Stand,Electronics,Central,18,1264.75,0.0,22765.5
+2025-02-14,Wireless Mouse,Electronics,West,1,897.2,10.0,807.48
+2025-02-16,Curtains,Home & Living,Central,19,2007.54,0.0,38143.26
+2025-02-17,Bed Sheet Set,Home & Living,North,12,1659.05,10.0,17917.74
+2025-02-18,Bluetooth Speaker,Electronics,North,18,2628.64,0.0,47315.52
+2025-02-18,Bluetooth Speaker,Electronics,South,6,2695.74,10.0,14557.0
+2025-02-18,Office Chair,Furniture,Central,27,6543.54,0.0,176675.58
+2025-02-19,Laptop Stand,Electronics,West,16,1459.18,0.0,23346.88
+2025-02-20,Running Shoes,Apparel,North,2,3610.9,0.0,7221.8
+2025-02-21,Curtains,Home & Living,West,11,2147.83,10.0,21263.52
+2025-02-22,Wireless Mouse,Electronics,East,22,732.21,5.0,15303.19
+2025-02-23,Wireless Mouse,Electronics,Central,23,825.7,10.0,17091.99
+2025-02-23,Laptop Stand,Electronics,West,2,1329.11,10.0,2392.4
+2025-02-25,Bluetooth Speaker,Electronics,North,9,2783.48,0.0,25051.32
+2025-02-25,USB-C Cable,Electronics,South,18,295.03,10.0,4779.49
+2025-02-25,Office Chair,Furniture,North,16,7562.79,10.0,108904.18
+2025-02-28,Curtains,Home & Living,South,12,1838.54,15.0,18753.11
+2025-03-02,Table Lamp,Home & Living,North,24,994.53,5.0,22675.28
+2025-03-03,Office Chair,Furniture,North,23,6954.14,0.0,159945.22
+2025-03-07,Notebook Set,Stationery,North,12,270.17,10.0,2917.84
+2025-03-10,T-Shirt,Apparel,East,21,582.21,5.0,11615.09
+2025-03-10,Notebook Set,Stationery,West,6,276.05,5.0,1573.49
+2025-03-10,Wireless Mouse,Electronics,East,12,742.13,0.0,8905.56
+2025-03-10,Notebook Set,Stationery,North,12,265.24,5.0,3023.74
+2025-03-11,Pen Pack,Stationery,Central,12,168.73,15.0,1721.05
+2025-03-12,Office Chair,Furniture,South,6,6637.11,10.0,35840.39
+2025-03-12,Curtains,Home & Living,South,26,1799.5,0.0,46787.0
+2025-03-13,T-Shirt,Apparel,Central,23,650.95,0.0,14971.85
+2025-03-13,Running Shoes,Apparel,West,8,3951.16,15.0,26867.89
+2025-03-14,Notebook Set,Stationery,North,13,270.33,0.0,3514.29
+2025-03-16,T-Shirt,Apparel,Central,4,636.22,15.0,2163.15
+2025-03-16,Bluetooth Speaker,Electronics,South,26,2639.27,0.0,68621.02
+2025-03-17,USB-C Cable,Electronics,North,10,345.73,5.0,3284.43
+2025-03-17,Yoga Mat,Sports & Fitness,Central,13,727.23,15.0,8035.89
+2025-03-18,T-Shirt,Apparel,West,1,733.84,0.0,733.84
+2025-03-19,Study Table,Furniture,North,6,8617.45,5.0,49119.47
+2025-03-20,T-Shirt,Apparel,East,18,601.85,0.0,10833.3
+2025-03-20,Wireless Mouse,Electronics,West,25,905.94,5.0,21516.08
+2025-03-21,Laptop Stand,Electronics,South,23,1251.59,0.0,28786.57
+2025-03-21,Table Lamp,Home & Living,West,8,1106.39,5.0,8408.56
+2025-03-22,Table Lamp,Home & Living,South,3,903.69,0.0,2711.07
+2025-03-22,USB-C Cable,Electronics,North,14,334.35,15.0,3978.77
+2025-03-24,Bed Sheet Set,Home & Living,Central,12,1618.63,10.0,17481.2
+2025-03-25,Table Lamp,Home & Living,East,14,841.01,0.0,11774.14
+2025-03-25,USB-C Cable,Electronics,Central,18,320.1,0.0,5761.8
+2025-03-26,Bookshelf,Furniture,West,11,5169.91,0.0,56869.01
+2025-03-28,Laptop Stand,Electronics,South,13,1148.99,0.0,14936.87
+2025-03-28,Wireless Mouse,Electronics,South,7,862.42,15.0,5131.4
+2025-03-28,Laptop Stand,Electronics,East,16,1230.08,0.0,19681.28
+2025-03-30,Notebook Set,Stationery,West,23,294.49,0.0,6773.27
+2025-03-30,Backpack,Apparel,South,8,1577.02,0.0,12616.16
+2025-03-31,Bookshelf,Furniture,West,4,5226.76,0.0,20907.04
+2025-03-31,Wireless Mouse,Electronics,South,16,826.85,5.0,12568.12
+2025-03-31,Study Table,Furniture,South,16,7983.27,10.0,114959.09
+2025-04-01,Running Shoes,Apparel,North,13,3726.73,15.0,41180.37
+2025-04-01,Yoga Mat,Sports & Fitness,Central,3,751.1,10.0,2027.97
+2025-04-02,Office Chair,Furniture,East,9,6213.05,15.0,47529.83
+2025-04-03,Running Shoes,Apparel,East,12,3023.37,0.0,36280.44
+2025-04-04,Bed Sheet Set,Home & Living,North,3,1686.92,10.0,4554.68
+2025-04-04,Laptop Stand,Electronics,Central,1,1274.54,0.0,1274.54
+2025-04-05,Table Lamp,Home & Living,East,28,813.11,5.0,21628.73
+2025-04-05,USB-C Cable,Electronics,East,5,287.67,0.0,1438.35
+2025-04-05,Study Table,Furniture,North,16,8437.35,10.0,121497.84
+2025-04-06,Curtains,Home & Living,West,29,2114.57,0.0,61322.53
+2025-04-06,Notebook Set,Stationery,East,17,228.44,0.0,3883.48
+2025-04-08,USB-C Cable,Electronics,West,22,371.29,0.0,8168.38
+2025-04-10,Bed Sheet Set,Home & Living,West,23,1723.37,0.0,39637.51
+2025-04-11,Wireless Mouse,Electronics,West,10,964.25,0.0,9642.5
+2025-04-12,Dumbbell Set,Sports & Fitness,East,16,3554.15,0.0,56866.4
+2025-04-13,Backpack,Apparel,Central,25,1538.79,5.0,36546.26
+2025-04-14,Yoga Mat,Sports & Fitness,East,18,655.29,0.0,11795.22
+2025-04-14,T-Shirt,Apparel,South,9,631.24,15.0,4828.99
+2025-04-15,Laptop Stand,Electronics,South,9,1218.02,0.0,10962.18
+2025-04-15,T-Shirt,Apparel,South,15,617.05,0.0,9255.75
+2025-04-16,Yoga Mat,Sports & Fitness,South,4,704.78,0.0,2819.12
+2025-04-16,Pen Pack,Stationery,West,13,173.07,10.0,2024.92
+2025-04-17,Table Lamp,Home & Living,West,17,989.55,0.0,16822.35
+2025-04-17,Pen Pack,Stationery,Central,7,155.7,0.0,1089.9
+2025-04-17,Bookshelf,Furniture,West,5,5523.38,0.0,27616.9
+2025-04-18,Yoga Mat,Sports & Fitness,West,23,850.25,10.0,17600.17
+2025-04-18,Table Lamp,Home & Living,South,8,960.81,10.0,6917.83
+2025-04-18,Wireless Mouse,Electronics,North,6,883.06,0.0,5298.36
+2025-04-18,Yoga Mat,Sports & Fitness,South,9,707.47,0.0,6367.23
+2025-04-19,Bookshelf,Furniture,South,18,4715.15,5.0,80629.06
+2025-04-19,Table Lamp,Home & Living,South,4,944.34,0.0,3777.36
+2025-04-20,Table Lamp,Home & Living,South,8,879.15,0.0,7033.2
+2025-04-20,Running Shoes,Apparel,East,17,3228.75,10.0,49399.88
+2025-04-20,Study Table,Furniture,South,2,8174.01,0.0,16348.02
+2025-04-21,T-Shirt,Apparel,East,15,597.75,5.0,8517.94
+2025-04-21,Table Lamp,Home & Living,North,1,1010.0,10.0,909.0
+2025-04-21,Bluetooth Speaker,Electronics,East,12,2411.44,0.0,28937.28
+2025-04-25,Bluetooth Speaker,Electronics,East,6,2377.42,10.0,12838.07
+2025-04-25,Laptop Stand,Electronics,South,24,1264.24,5.0,28824.67
+2025-04-28,Backpack,Apparel,South,10,1479.72,0.0,14797.2
+2025-04-29,T-Shirt,Apparel,North,20,649.05,10.0,11682.9
+2025-04-29,Bed Sheet Set,Home & Living,North,20,1578.14,0.0,31562.8
+2025-04-29,Curtains,Home & Living,North,13,2127.63,10.0,24893.27
+2025-05-02,Backpack,Apparel,East,21,1446.57,5.0,28859.07
+2025-05-02,Yoga Mat,Sports & Fitness,West,8,833.99,0.0,6671.92
+2025-05-03,T-Shirt,Apparel,Central,16,676.64,10.0,9743.62
+2025-05-04,Notebook Set,Stationery,South,23,243.62,10.0,5042.93
+2025-05-04,Dumbbell Set,Sports & Fitness,West,1,3965.45,0.0,3965.45
+2025-05-06,Laptop Stand,Electronics,North,9,1277.7,10.0,10349.37
+2025-05-06,Bookshelf,Furniture,North,19,5256.32,5.0,94876.58
+2025-05-07,Notebook Set,Stationery,West,22,297.18,5.0,6211.06
+2025-05-07,Bluetooth Speaker,Electronics,North,3,2718.3,5.0,7747.15
+2025-05-10,Dumbbell Set,Sports & Fitness,East,15,3493.96,0.0,52409.4
+2025-05-11,Laptop Stand,Electronics,North,16,1328.7,5.0,20196.24
+2025-05-11,Notebook Set,Stationery,West,16,276.7,0.0,4427.2
+2025-05-11,Curtains,Home & Living,Central,4,2017.59,15.0,6859.81
+2025-05-13,Dumbbell Set,Sports & Fitness,East,22,3383.42,0.0,74435.24
+2025-05-13,Table Lamp,Home & Living,West,4,1082.54,0.0,4330.16
+2025-05-14,Office Chair,Furniture,North,20,7522.22,0.0,150444.4
+2025-05-15,Running Shoes,Apparel,East,1,3122.8,0.0,3122.8
+2025-05-16,Laptop Stand,Electronics,North,16,1265.8,5.0,19240.16
+2025-05-17,Dumbbell Set,Sports & Fitness,North,8,3847.9,5.0,29244.04
+2025-05-17,Bed Sheet Set,Home & Living,Central,2,1590.36,0.0,3180.72
+2025-05-17,USB-C Cable,Electronics,South,19,294.17,10.0,5030.31
+2025-05-18,Notebook Set,Stationery,South,26,246.13,10.0,5759.44
+2025-05-18,Running Shoes,Apparel,East,19,3091.87,0.0,58745.53
+2025-05-19,Running Shoes,Apparel,South,3,3372.56,5.0,9611.8
+2025-05-19,Curtains,Home & Living,Central,10,2020.68,0.0,20206.8
+2025-05-20,Notebook Set,Stationery,Central,10,282.13,0.0,2821.3
+2025-05-20,Running Shoes,Apparel,West,5,3545.23,10.0,15953.54
+2025-05-20,Office Chair,Furniture,West,18,8015.78,10.0,129855.64
+2025-05-20,Dumbbell Set,Sports & Fitness,North,24,3710.4,15.0,75692.16
+2025-05-22,Table Lamp,Home & Living,West,9,1008.75,0.0,9078.75
+2025-05-22,Laptop Stand,Electronics,East,5,1220.82,5.0,5798.89
+2025-05-22,Running Shoes,Apparel,West,13,3599.61,10.0,42115.44
+2025-05-23,Pen Pack,Stationery,East,6,149.23,0.0,895.38
+2025-05-24,Bed Sheet Set,Home & Living,South,18,1585.64,10.0,25687.37
+2025-05-24,Table Lamp,Home & Living,Central,12,1009.11,0.0,12109.32
+2025-05-25,USB-C Cable,Electronics,Central,7,333.88,0.0,2337.16
+2025-05-25,Bluetooth Speaker,Electronics,Central,9,2778.67,15.0,21256.83
+2025-05-25,USB-C Cable,Electronics,North,1,326.42,5.0,310.1
+2025-05-25,Wireless Mouse,Electronics,South,26,813.32,0.0,21146.32
+2025-05-25,Office Chair,Furniture,South,13,6505.33,15.0,71883.9
+2025-05-25,Laptop Stand,Electronics,West,16,1398.38,10.0,20136.67
+2025-05-26,Notebook Set,Stationery,West,3,306.0,5.0,872.1
+2025-05-26,Pen Pack,Stationery,East,18,141.94,0.0,2554.92
+2025-05-27,Pen Pack,Stationery,North,11,157.97,0.0,1737.67
+2025-05-27,Yoga Mat,Sports & Fitness,South,10,755.01,0.0,7550.1
+2025-05-27,Bluetooth Speaker,Electronics,South,3,2520.95,5.0,7184.71
+2025-05-30,Bluetooth Speaker,Electronics,North,10,2920.61,5.0,27745.8
+2025-05-30,Bookshelf,Furniture,West,19,4945.88,5.0,89273.13
+2025-05-30,Table Lamp,Home & Living,North,1,1052.05,0.0,1052.05
+2025-05-31,Notebook Set,Stationery,East,18,248.53,5.0,4249.86
+2025-06-01,USB-C Cable,Electronics,North,8,346.86,0.0,2774.88
+2025-06-01,Curtains,Home & Living,East,7,1764.2,5.0,11731.93
+2025-06-01,Bluetooth Speaker,Electronics,East,6,2338.89,0.0,14033.34
+2025-06-02,T-Shirt,Apparel,North,9,681.23,10.0,5517.96
+2025-06-03,Laptop Stand,Electronics,South,16,1288.72,15.0,17526.59
+2025-06-04,Office Chair,Furniture,West,16,7629.2,5.0,115963.84
+2025-06-05,T-Shirt,Apparel,West,11,682.08,15.0,6377.45
+2025-06-07,Dumbbell Set,Sports & Fitness,Central,9,3540.14,0.0,31861.26
+2025-06-08,Yoga Mat,Sports & Fitness,Central,12,765.34,0.0,9184.08
+2025-06-08,Wireless Mouse,Electronics,West,1,965.47,0.0,965.47
+2025-06-08,Bluetooth Speaker,Electronics,North,6,2781.13,15.0,14183.76
+2025-06-08,Curtains,Home & Living,North,20,2094.16,0.0,41883.2
+2025-06-09,Dumbbell Set,Sports & Fitness,North,10,3753.94,5.0,35662.43
+2025-06-09,Office Chair,Furniture,South,15,6636.16,0.0,99542.4
+2025-06-09,Bookshelf,Furniture,North,20,4996.46,10.0,89936.28
+2025-06-14,Laptop Stand,Electronics,East,2,1111.18,10.0,2000.12
+2025-06-15,Curtains,Home & Living,South,16,1715.79,0.0,27452.64
+2025-06-15,Bluetooth Speaker,Electronics,West,13,2907.88,10.0,34022.2
+2025-06-17,Yoga Mat,Sports & Fitness,South,13,704.03,0.0,9152.39
+2025-06-20,T-Shirt,Apparel,East,3,562.2,0.0,1686.6
+2025-06-21,Study Table,Furniture,Central,4,9009.24,10.0,32433.26
+2025-06-23,Study Table,Furniture,West,7,9046.67,15.0,53827.69
+2025-06-24,Curtains,Home & Living,East,18,1696.2,0.0,30531.6
+2025-06-25,USB-C Cable,Electronics,West,14,347.92,0.0,4870.88
+2025-06-26,Wireless Mouse,Electronics,Central,11,825.81,15.0,7721.32
+2025-06-28,Office Chair,Furniture,East,20,6363.43,5.0,120905.17
+2025-06-29,Bluetooth Speaker,Electronics,East,11,2462.0,0.0,27082.0
+2025-06-29,Running Shoes,Apparel,West,21,3737.76,5.0,74568.31
+2025-06-30,USB-C Cable,Electronics,Central,20,320.41,10.0,5767.38
+2025-06-30,Laptop Stand,Electronics,South,14,1292.37,10.0,16283.86
+2025-06-30,Bed Sheet Set,Home & Living,North,6,1731.78,0.0,10390.68
+2025-07-01,Office Chair,Furniture,North,13,6914.15,0.0,89883.95
+2025-07-01,Laptop Stand,Electronics,West,9,1436.69,10.0,11637.19
+2025-07-03,USB-C Cable,Electronics,West,10,365.25,0.0,3652.5
+2025-07-04,Wireless Mouse,Electronics,West,15,939.73,15.0,11981.56
+2025-07-04,Wireless Mouse,Electronics,North,21,886.42,0.0,18614.82
+2025-07-04,Laptop Stand,Electronics,South,18,1158.7,10.0,18770.94
+2025-07-07,Yoga Mat,Sports & Fitness,West,1,806.73,0.0,806.73
+2025-07-07,Laptop Stand,Electronics,South,10,1266.02,5.0,12027.19
+2025-07-09,Yoga Mat,Sports & Fitness,Central,2,734.9,0.0,1469.8
+2025-07-09,Yoga Mat,Sports & Fitness,West,9,788.22,0.0,7093.98
+2025-07-09,USB-C Cable,Electronics,South,13,299.66,0.0,3895.58
+2025-07-09,Wireless Mouse,Electronics,South,12,860.6,10.0,9294.48
+2025-07-10,USB-C Cable,Electronics,West,13,367.51,0.0,4777.63
+2025-07-11,Bookshelf,Furniture,Central,8,5092.99,0.0,40743.92
+2025-07-12,Running Shoes,Apparel,North,16,3516.43,5.0,53449.74
+2025-07-13,Notebook Set,Stationery,South,6,262.28,0.0,1573.68
+2025-07-14,Bluetooth Speaker,Electronics,East,10,2362.83,10.0,21265.47
+2025-07-15,Office Chair,Furniture,West,4,7161.03,10.0,25779.71
+2025-07-16,Running Shoes,Apparel,East,5,3060.03,5.0,14535.14
+2025-07-16,Bed Sheet Set,Home & Living,West,11,1858.78,10.0,18401.92
+2025-07-16,Bookshelf,Furniture,East,21,4581.89,10.0,86597.72
+2025-07-17,Curtains,Home & Living,North,9,2052.15,10.0,16622.42
+2025-07-17,Laptop Stand,Electronics,South,2,1144.03,5.0,2173.66
+2025-07-17,USB-C Cable,Electronics,Central,7,300.74,0.0,2105.18
+2025-07-18,Bluetooth Speaker,Electronics,South,8,2676.52,10.0,19270.94
+2025-07-18,Running Shoes,Apparel,East,19,3268.03,10.0,55883.31
+2025-07-18,Yoga Mat,Sports & Fitness,South,3,666.63,15.0,1699.91
+2025-07-19,Running Shoes,Apparel,East,4,3058.08,5.0,11620.7
+2025-07-19,Bluetooth Speaker,Electronics,North,2,2805.09,5.0,5329.67
+2025-07-19,USB-C Cable,Electronics,North,7,349.89,5.0,2326.77
+2025-07-19,Curtains,Home & Living,South,23,1747.62,10.0,36175.73
+2025-07-20,Wireless Mouse,Electronics,South,15,847.52,10.0,11441.52
+2025-07-22,Pen Pack,Stationery,Central,1,159.04,5.0,151.09
+2025-07-23,Laptop Stand,Electronics,South,1,1198.23,5.0,1138.32
+2025-07-23,Office Chair,Furniture,Central,13,7079.23,5.0,87428.49
+2025-07-25,Office Chair,Furniture,East,10,5897.55,0.0,58975.5
+2025-07-25,Notebook Set,Stationery,North,20,293.46,15.0,4988.82
+2025-07-26,T-Shirt,Apparel,South,21,620.76,10.0,11732.36
+2025-07-27,Yoga Mat,Sports & Fitness,South,8,743.56,5.0,5651.06
+2025-07-27,Table Lamp,Home & Living,South,3,855.57,15.0,2181.7
+2025-07-27,Laptop Stand,Electronics,East,11,1140.37,15.0,10662.46
+2025-07-28,T-Shirt,Apparel,South,2,606.29,0.0,1212.58
+2025-07-28,Dumbbell Set,Sports & Fitness,West,11,4020.21,10.0,39800.08
+2025-07-30,Backpack,Apparel,North,1,1657.51,0.0,1657.51
+2025-07-31,Dumbbell Set,Sports & Fitness,North,6,3718.25,0.0,22309.5
+2025-07-31,Yoga Mat,Sports & Fitness,North,12,778.25,5.0,8872.05
+2025-08-02,Bluetooth Speaker,Electronics,North,15,2844.06,10.0,38394.81
+2025-08-02,Bookshelf,Furniture,East,13,4398.58,0.0,57181.54
+2025-08-03,Backpack,Apparel,East,14,1440.13,10.0,18145.64
+2025-08-04,Office Chair,Furniture,North,8,7190.02,5.0,54644.15
+2025-08-09,Office Chair,Furniture,West,1,7697.52,0.0,7697.52
+2025-08-10,Dumbbell Set,Sports & Fitness,West,10,3977.34,0.0,39773.4
+2025-08-15,Table Lamp,Home & Living,North,8,1031.46,0.0,8251.68
+2025-08-16,USB-C Cable,Electronics,South,7,315.62,5.0,2098.87
+2025-08-17,Table Lamp,Home & Living,North,10,955.07,0.0,9550.7
+2025-08-18,Study Table,Furniture,North,22,8586.1,0.0,188894.2
+2025-08-18,Backpack,Apparel,Central,25,1580.2,5.0,37529.75
+2025-08-23,T-Shirt,Apparel,North,25,680.7,10.0,15315.75
+2025-08-23,Backpack,Apparel,Central,6,1647.0,5.0,9387.9
+2025-08-24,Pen Pack,Stationery,North,1,173.5,10.0,156.15
+2025-08-26,Table Lamp,Home & Living,East,1,886.06,0.0,886.06
+2025-08-26,Pen Pack,Stationery,West,18,177.26,5.0,3031.15
+2025-08-27,Running Shoes,Apparel,North,21,3351.41,10.0,63341.65
+2025-08-28,Backpack,Apparel,East,20,1414.62,0.0,28292.4
+2025-08-29,Yoga Mat,Sports & Fitness,West,13,794.81,5.0,9815.9
+2025-08-29,USB-C Cable,Electronics,East,6,306.58,0.0,1839.48
+2025-08-29,Study Table,Furniture,West,14,9729.52,5.0,129402.62
+2025-08-30,Study Table,Furniture,Central,22,8637.04,15.0,161512.65
+2025-08-30,Pen Pack,Stationery,East,22,152.66,5.0,3190.59
+2025-08-31,Running Shoes,Apparel,Central,10,3510.37,0.0,35103.7
+2025-08-31,Table Lamp,Home & Living,Central,12,974.68,5.0,11111.35
+2025-09-01,Backpack,Apparel,South,2,1430.92,10.0,2575.66
+2025-09-01,Yoga Mat,Sports & Fitness,East,22,633.31,15.0,11842.9
+2025-09-02,T-Shirt,Apparel,South,3,641.5,0.0,1924.5
+2025-09-03,Wireless Mouse,Electronics,South,14,822.75,10.0,10366.65
+2025-09-03,Wireless Mouse,Electronics,West,16,890.4,10.0,12821.76
+2025-09-04,Running Shoes,Apparel,West,11,3637.26,10.0,36008.87
+2025-09-04,Laptop Stand,Electronics,East,16,1175.47,5.0,17867.14
+2025-09-04,Table Lamp,Home & Living,South,9,923.72,0.0,8313.48
+2025-09-04,Yoga Mat,Sports & Fitness,Central,6,761.5,10.0,4112.1
+2025-09-04,Bluetooth Speaker,Electronics,Central,16,2800.18,0.0,44802.88
+2025-09-04,Pen Pack,Stationery,East,21,141.85,0.0,2978.85
+2025-09-06,Laptop Stand,Electronics,East,25,1174.89,5.0,27903.64
+2025-09-08,Study Table,Furniture,West,11,9019.07,5.0,94249.28
+2025-09-11,Office Chair,Furniture,Central,13,6969.93,5.0,86078.64
+2025-09-11,Study Table,Furniture,South,13,8335.11,15.0,92102.97
+2025-09-14,Notebook Set,Stationery,West,23,302.89,5.0,6618.15
+2025-09-14,Running Shoes,Apparel,North,11,3718.59,10.0,36814.04
+2025-09-15,Laptop Stand,Electronics,West,14,1453.73,0.0,20352.22
+2025-09-15,Curtains,Home & Living,West,15,1967.53,0.0,29512.95
+2025-09-15,Bluetooth Speaker,Electronics,West,6,2988.49,0.0,17930.94
+2025-09-16,Table Lamp,Home & Living,South,3,862.72,0.0,2588.16
+2025-09-16,Running Shoes,Apparel,South,4,3166.08,5.0,12031.1
+2025-09-16,USB-C Cable,Electronics,South,20,305.41,0.0,6108.2
+2025-09-17,Table Lamp,Home & Living,West,7,1018.04,0.0,7126.28
+2025-09-17,USB-C Cable,Electronics,South,12,285.6,5.0,3255.84
+2025-09-19,Bookshelf,Furniture,North,13,5188.37,5.0,64076.37
+2025-09-19,Laptop Stand,Electronics,North,5,1278.51,10.0,5753.3
+2025-09-22,Notebook Set,Stationery,East,15,242.27,15.0,3088.94
+2025-09-24,T-Shirt,Apparel,East,30,591.25,0.0,17737.5
+2025-09-25,Pen Pack,Stationery,East,18,136.55,0.0,2457.9
+2025-09-25,Study Table,Furniture,Central,2,8170.45,5.0,15523.85
+2025-09-25,Yoga Mat,Sports & Fitness,Central,20,730.83,10.0,13154.94
+2025-09-25,Study Table,Furniture,South,13,7603.27,0.0,98842.51
+2025-09-27,Running Shoes,Apparel,Central,30,3496.51,5.0,99650.54
+2025-09-29,Dumbbell Set,Sports & Fitness,West,4,4223.26,0.0,16893.04
+2025-09-29,Dumbbell Set,Sports & Fitness,Central,11,3498.81,5.0,36562.56
+2025-09-29,Backpack,Apparel,East,14,1379.82,0.0,19317.48
+2025-09-30,Yoga Mat,Sports & Fitness,South,11,666.97,5.0,6969.84
+2025-09-30,Dumbbell Set,Sports & Fitness,West,8,4345.04,0.0,34760.32
+2025-10-01,Yoga Mat,Sports & Fitness,Central,26,763.85,0.0,19860.1
+2025-10-01,Bluetooth Speaker,Electronics,Central,26,2745.94,5.0,67824.72
+2025-10-01,Bed Sheet Set,Home & Living,Central,36,1679.53,15.0,51393.62
+2025-10-02,Bluetooth Speaker,Electronics,East,14,2299.13,0.0,32187.82
+2025-10-02,Curtains,Home & Living,West,15,2023.15,20.0,24277.8
+2025-10-03,Running Shoes,Apparel,Central,31,3334.79,0.0,103378.49
+2025-10-03,Bookshelf,Furniture,Central,5,4807.78,5.0,22836.95
+2025-10-04,Curtains,Home & Living,East,34,1821.06,5.0,58820.24
+2025-10-06,Backpack,Apparel,South,9,1536.01,0.0,13824.09
+2025-10-06,Table Lamp,Home & Living,North,19,1013.39,20.0,15403.53
+2025-10-06,Curtains,Home & Living,East,3,1810.6,20.0,4345.44
+2025-10-07,Study Table,Furniture,Central,12,8384.36,5.0,95581.7
+2025-10-07,Bluetooth Speaker,Electronics,East,7,2490.99,0.0,17436.93
+2025-10-08,Pen Pack,Stationery,Central,10,168.12,15.0,1429.02
+2025-10-09,Yoga Mat,Sports & Fitness,South,6,743.49,5.0,4237.89
+2025-10-09,Bluetooth Speaker,Electronics,West,14,2798.77,25.0,29387.08
+2025-10-09,Dumbbell Set,Sports & Fitness,North,9,3958.73,15.0,30284.28
+2025-10-10,Bluetooth Speaker,Electronics,East,29,2446.44,5.0,67399.42
+2025-10-11,Dumbbell Set,Sports & Fitness,South,15,3638.62,0.0,54579.3
+2025-10-13,USB-C Cable,Electronics,Central,21,306.14,5.0,6107.49
+2025-10-14,Table Lamp,Home & Living,West,22,995.02,10.0,19701.4
+2025-10-14,Dumbbell Set,Sports & Fitness,North,18,4080.99,5.0,69784.93
+2025-10-15,Pen Pack,Stationery,West,31,177.42,10.0,4950.02
+2025-10-15,Dumbbell Set,Sports & Fitness,West,15,4041.3,10.0,54557.55
+2025-10-16,USB-C Cable,Electronics,South,4,307.41,15.0,1045.19
+2025-10-17,Running Shoes,Apparel,South,16,3276.91,20.0,41944.45
+2025-10-17,Office Chair,Furniture,South,17,6361.17,15.0,91918.91
+2025-10-17,Wireless Mouse,Electronics,North,34,927.06,20.0,25216.03
+2025-10-18,Backpack,Apparel,Central,27,1684.89,15.0,38668.23
+2025-10-18,Notebook Set,Stationery,South,26,246.5,0.0,6409.0
+2025-10-19,Running Shoes,Apparel,South,37,3046.08,10.0,101434.46
+2025-10-20,Pen Pack,Stationery,South,7,151.9,20.0,850.64
+2025-10-20,Table Lamp,Home & Living,South,30,915.01,0.0,27450.3
+2025-10-20,Running Shoes,Apparel,West,31,3752.39,10.0,104691.68
+2025-10-20,USB-C Cable,Electronics,North,19,314.68,20.0,4783.14
+2025-10-20,Bluetooth Speaker,Electronics,South,6,2415.33,0.0,14491.98
+2025-10-21,Pen Pack,Stationery,Central,10,159.24,10.0,1433.16
+2025-10-21,Table Lamp,Home & Living,East,31,903.43,15.0,23805.38
+2025-10-23,Bookshelf,Furniture,West,28,5466.53,25.0,114797.13
+2025-10-23,Table Lamp,Home & Living,East,16,864.01,10.0,12441.74
+2025-10-24,Notebook Set,Stationery,East,14,249.45,15.0,2968.45
+2025-10-24,Study Table,Furniture,North,29,9378.23,0.0,271968.67
+2025-10-24,Wireless Mouse,Electronics,Central,9,802.05,0.0,7218.45
+2025-10-25,Dumbbell Set,Sports & Fitness,Central,18,3551.23,25.0,47941.6
+2025-10-25,Office Chair,Furniture,Central,3,6613.68,20.0,15872.83
+2025-10-25,Running Shoes,Apparel,North,28,3429.26,20.0,76815.42
+2025-10-25,USB-C Cable,Electronics,West,11,328.42,10.0,3251.36
+2025-10-25,Notebook Set,Stationery,South,5,253.31,15.0,1076.57
+2025-10-26,Bluetooth Speaker,Electronics,North,4,2758.98,15.0,9380.53
+2025-10-27,T-Shirt,Apparel,North,26,657.61,5.0,16242.97
+2025-10-28,Notebook Set,Stationery,West,19,296.15,25.0,4220.14
+2025-10-29,Notebook Set,Stationery,Central,8,253.82,5.0,1929.03
+2025-10-31,Dumbbell Set,Sports & Fitness,North,18,4000.54,0.0,72009.72
+2025-10-31,Running Shoes,Apparel,East,25,3002.81,10.0,67563.23
+2025-11-02,Pen Pack,Stationery,South,8,150.84,5.0,1146.38
+2025-11-02,Bluetooth Speaker,Electronics,West,20,2745.93,25.0,41188.95
+2025-11-02,Office Chair,Furniture,East,15,6300.37,20.0,75604.44
+2025-11-02,USB-C Cable,Electronics,East,5,298.0,5.0,1415.5
+2025-11-03,Bluetooth Speaker,Electronics,North,18,2713.94,10.0,43965.83
+2025-11-03,Dumbbell Set,Sports & Fitness,East,14,3197.57,0.0,44765.98
+2025-11-04,Laptop Stand,Electronics,Central,30,1312.2,20.0,31492.8
+2025-11-05,Dumbbell Set,Sports & Fitness,South,7,3422.92,20.0,19168.35
+2025-11-05,Dumbbell Set,Sports & Fitness,West,26,3853.62,15.0,85165.0
+2025-11-06,Laptop Stand,Electronics,South,16,1223.03,20.0,15654.78
+2025-11-06,Dumbbell Set,Sports & Fitness,West,38,4163.75,0.0,158222.5
+2025-11-06,Curtains,Home & Living,East,8,1713.23,5.0,13020.55
+2025-11-07,Yoga Mat,Sports & Fitness,South,27,723.6,20.0,15629.76
+2025-11-07,Pen Pack,Stationery,North,30,159.94,10.0,4318.38
+2025-11-11,Pen Pack,Stationery,Central,9,158.49,10.0,1283.77
+2025-11-12,Bookshelf,Furniture,West,6,5463.85,15.0,27865.64
+2025-11-12,Bed Sheet Set,Home & Living,Central,16,1648.94,15.0,22425.58
+2025-11-12,Backpack,Apparel,South,15,1528.28,20.0,18339.36
+2025-11-12,USB-C Cable,Electronics,West,30,328.27,10.0,8863.29
+2025-11-12,Study Table,Furniture,North,6,9208.84,0.0,55253.04
+2025-11-14,Backpack,Apparel,South,8,1552.95,0.0,12423.6
+2025-11-14,Backpack,Apparel,West,9,1782.79,0.0,16045.11
+2025-11-14,Running Shoes,Apparel,Central,7,3218.32,25.0,16896.18
+2025-11-15,Pen Pack,Stationery,West,5,164.17,5.0,779.81
+2025-11-15,T-Shirt,Apparel,Central,9,636.47,20.0,4582.58
+2025-11-15,Running Shoes,Apparel,South,31,3258.42,20.0,80808.82
+2025-11-16,USB-C Cable,Electronics,North,15,322.64,25.0,3629.7
+2025-11-17,USB-C Cable,Electronics,East,30,286.95,25.0,6456.38
+2025-11-18,Running Shoes,Apparel,North,34,3526.13,10.0,107899.58
+2025-11-19,T-Shirt,Apparel,South,23,646.7,5.0,14130.4
+2025-11-19,Running Shoes,Apparel,East,25,3118.29,20.0,62365.8
+2025-11-20,Dumbbell Set,Sports & Fitness,East,2,3237.82,10.0,5828.08
+2025-11-20,Study Table,Furniture,South,14,8551.66,5.0,113737.08
+2025-11-21,Curtains,Home & Living,East,20,1777.45,0.0,35549.0
+2025-11-21,Bed Sheet Set,Home & Living,South,16,1489.94,15.0,20263.18
+2025-11-22,Wireless Mouse,Electronics,West,22,965.16,20.0,16986.82
+2025-11-22,Curtains,Home & Living,North,11,1993.75,10.0,19738.12
+2025-11-22,Backpack,Apparel,East,29,1449.72,5.0,39939.79
+2025-11-22,T-Shirt,Apparel,South,16,585.78,10.0,8435.23
+2025-11-23,Running Shoes,Apparel,Central,36,3478.5,5.0,118964.7
+2025-11-25,USB-C Cable,Electronics,North,9,328.88,25.0,2219.94
+2025-11-26,Laptop Stand,Electronics,North,7,1359.21,5.0,9038.75
+2025-11-27,Bookshelf,Furniture,East,1,4437.71,15.0,3772.05
+2025-11-28,Notebook Set,Stationery,South,26,243.41,20.0,5062.93
+2025-11-28,Bluetooth Speaker,Electronics,North,11,2699.21,5.0,28206.74
+2025-11-29,Yoga Mat,Sports & Fitness,East,41,703.3,25.0,21626.47
+2025-11-29,Yoga Mat,Sports & Fitness,North,26,818.58,10.0,19154.77
+2025-11-29,Yoga Mat,Sports & Fitness,South,31,725.44,5.0,21364.21
+2025-11-29,Dumbbell Set,Sports & Fitness,West,20,4050.05,10.0,72900.9
+2025-11-30,T-Shirt,Apparel,East,39,587.81,10.0,20632.13
+2025-11-30,Study Table,Furniture,East,21,7708.34,15.0,137593.87
+2025-12-01,Bed Sheet Set,Home & Living,East,1,1446.88,5.0,1374.54
+2025-12-02,Table Lamp,Home & Living,North,28,975.12,20.0,21842.69
+2025-12-03,Study Table,Furniture,East,14,8050.04,10.0,101430.5
+2025-12-04,Dumbbell Set,Sports & Fitness,Central,6,3632.16,10.0,19613.66
+2025-12-04,USB-C Cable,Electronics,Central,15,324.94,20.0,3899.28
+2025-12-04,Dumbbell Set,Sports & Fitness,Central,21,3884.44,5.0,77494.58
+2025-12-06,Pen Pack,Stationery,South,1,158.96,15.0,135.12
+2025-12-09,T-Shirt,Apparel,Central,8,607.05,15.0,4127.94
+2025-12-09,Dumbbell Set,Sports & Fitness,North,1,3685.01,15.0,3132.26
+2025-12-10,Curtains,Home & Living,East,6,1721.82,5.0,9814.37
+2025-12-10,T-Shirt,Apparel,North,21,653.95,5.0,13046.3
+2025-12-10,T-Shirt,Apparel,Central,7,640.13,5.0,4256.86
+2025-12-11,Backpack,Apparel,North,25,1762.18,20.0,35243.6
+2025-12-14,Office Chair,Furniture,North,42,7026.55,20.0,236092.08
+2025-12-14,Wireless Mouse,Electronics,South,25,830.1,20.0,16602.0
+2025-12-14,Pen Pack,Stationery,East,33,151.16,10.0,4489.45
+2025-12-15,Bed Sheet Set,Home & Living,West,4,1650.49,5.0,6271.86
+2025-12-17,Curtains,Home & Living,South,32,1789.15,25.0,42939.6
+2025-12-18,Office Chair,Furniture,Central,15,6815.41,15.0,86896.48
+2025-12-19,Wireless Mouse,Electronics,Central,11,847.38,0.0,9321.18
+2025-12-20,Table Lamp,Home & Living,North,18,1004.71,15.0,15372.06
+2025-12-20,USB-C Cable,Electronics,North,32,340.71,25.0,8177.04
+2025-12-24,Yoga Mat,Sports & Fitness,West,30,785.83,0.0,23574.9
+2025-12-24,Yoga Mat,Sports & Fitness,North,22,751.41,15.0,14051.37
+2025-12-25,Study Table,Furniture,East,1,8116.92,20.0,6493.54
+2025-12-26,Wireless Mouse,Electronics,West,12,897.26,15.0,9152.05
+2025-12-26,Bluetooth Speaker,Electronics,Central,28,2598.61,20.0,58208.86
+2025-12-27,Running Shoes,Apparel,South,36,3262.83,20.0,93969.5
+2025-12-27,Yoga Mat,Sports & Fitness,South,5,691.77,25.0,2594.14
+2025-12-27,Curtains,Home & Living,East,37,1795.23,10.0,59781.16
+2025-12-28,Study Table,Furniture,West,15,9369.84,5.0,133520.22
+2025-12-29,Bookshelf,Furniture,Central,23,4588.59,15.0,89706.93
+2025-12-29,Notebook Set,Stationery,East,34,243.95,0.0,8294.3
+2025-12-30,Pen Pack,Stationery,West,12,165.17,0.0,1982.04
+2025-12-30,Backpack,Apparel,Central,17,1538.17,15.0,22226.56
+2025-12-30,Office Chair,Furniture,North,5,7619.99,0.0,38099.95
