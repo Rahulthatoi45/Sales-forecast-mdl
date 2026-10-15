@@ -24,8 +24,8 @@ st.set_page_config(
 
 BASE_DIR = Path(__file__).resolve().parent
 
-DATA_FILE = BASE_DIR / "sales_forecasting_dataset.csv"
-MODEL_FILE = BASE_DIR / "Sales_Model2.pkl"
+DATA_FILE = BASE_DIR / "sales_forecasting_dataset_100k_10yr.csv"
+MODEL_FILE = BASE_DIR / "Sales_Model_1.pkl"
 
 
 # =========================================================
@@ -73,8 +73,8 @@ except FileNotFoundError as e:
     st.error(f"Required file not found: {e.filename}")
 
     st.info(
-        "Keep sales_forecasting_dataset.csv and "
-        "Sales_Model2.pkl in the same folder as app.py."
+        "Keep sales_forecasting_dataset_100k_10yr.csv and "
+        "Sales_Model_1.pkl in the same folder as app.py."
     )
 
     st.stop()
